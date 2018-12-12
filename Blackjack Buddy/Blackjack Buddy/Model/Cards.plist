@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>Ace of Clubs</string>
+		<key>image</key>
+		<string>c1</string>
+		<key>value</key>
+		<integer>11</integer>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Two of Clubs</string>
+		<key>image</key>
+		<string>c2</string>
+		<key>value</key>
+		<integer>2</integer>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Three of Clubs</string>
+		<key>image</key>
+		<string>c3</string>
+		<key>value</key>
+		<integer>3</integer>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Four of Clubs</string>
+		<key>image</key>
+		<string>c4</string>
+		<key>value</key>
+		<integer>4</integer>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Five of Clubs</string>
+		<key>image</key>
+		<string>c5</string>
+		<key>value</key>
+		<integer>5</integer>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Six of Clubs</string>
+		<key>image</key>
+		<string>c6</string>
+		<key>value</key>
+		<integer>6</integer>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Seven of Clubs</string>
+		<key>image</key>
+		<string>c7</string>
+		<key>value</key>
+		<integer>7</integer>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Eight of Clubs</string>
+		<key>image</key>
+		<string>c8</string>
+		<key>value</key>
+		<integer>8</integer>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Nine of Clubs</string>
+		<key>image</key>
+		<string>c9</string>
+		<key>value</key>
+		<integer>9</integer>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Ten of Clubs</string>
+		<key>image</key>
+		<string>c10</string>
+		<key>value</key>
+		<integer>10</integer>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Jack of Clubs</string>
+		<key>image</key>
+		<string>c11</string>
+		<key>value</key>
+		<integer>10</integer>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Queen of Clubs</string>
+		<key>image</key>
+		<string>c12</string>
+		<key>value</key>
+		<integer>10</integer>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>King of Clubs</string>
+		<key>image</key>
+		<string>c13</string>
+		<key>value</key>
+		<integer>10</integer>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Ace of Spades</string>
+		<key>image</key>
+		<string>s1</string>
+		<key>value</key>
+		<integer>11</integer>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Two of Spades</string>
+		<key>image</key>
+		<string>s2</string>
+		<key>value</key>
+		<integer>2</integer>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Three of Spades</string>
+		<key>image</key>
+		<string>s3</string>
+		<key>value</key>
+		<integer>3</integer>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Four of Spades</string>
+		<key>image</key>
+		<string>s4</string>
+		<key>value</key>
+		<integer>4</integer>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Five of Spades</string>
+		<key>image</key>
+		<string>s5</string>
+		<key>value</key>
+		<integer>5</integer>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Six of Spades</string>
+		<key>image</key>
+		<string>s6</string>
+		<key>value</key>
+		<integer>6</integer>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Seven of Spades</string>
+		<key>image</key>
+		<string>s7</string>
+		<key>value</key>
+		<integer>7</integer>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Eight of Spades</string>
+		<key>image</key>
+		<string>s8</string>
+		<key>value</key>
+		<integer>8</integer>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Nine of Spades</string>
+		<key>image</key>
+		<string>s9</string>
+		<key>value</key>
+		<integer>9</integer>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Ten of Spades</string>
+		<key>image</key>
+		<string>s10</string>
+		<key>value</key>
+		<integer>10</integer>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Jack of Spades</string>
+		<key>image</key>
+		<string>s11</string>
+		<key>value</key>
+		<integer>10</integer>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Queen of Spades</string>
+		<key>image</key>
+		<string>s12</string>
+		<key>value</key>
+		<integer>10</integer>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>King of Spades</string>
+		<key>image</key>
+		<string>s13</string>
+		<key>value</key>
+		<integer>10</integer>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Ace of Diamonds</string>
+		<key>image</key>
+		<string>d1</string>
+		<key>value</key>
+		<integer>11</integer>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Two of Diamonds</string>
+		<key>image</key>
+		<string>d2</string>
+		<key>value</key>
+		<integer>2</integer>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Three of Diamonds</string>
+		<key>image</key>
+		<string>d3</string>
+		<key>value</key>
+		<integer>3</integer>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Four of Diamonds</string>
+		<key>image</key>
+		<string>d4</string>
+		<key>value</key>
+		<integer>4</integer>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Five of Diamonds</string>
+		<key>image</key>
+		<string>d5</string>
+		<key>value</key>
+		<integer>5</integer>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Six of Diamonds</string>
+		<key>image</key>
+		<string>d6</string>
+		<key>value</key>
+		<integer>6</integer>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Seven of Diamonds</string>
+		<key>image</key>
+		<string>d7</string>
+		<key>value</key>
+		<integer>7</integer>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Eight of Diamonds</string>
+		<key>image</key>
+		<string>d8</string>
+		<key>value</key>
+		<integer>8</integer>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Nine of Diamonds</string>
+		<key>image</key>
+		<string>d9</string>
+		<key>value</key>
+		<integer>9</integer>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Ten of Diamonds</string>
+		<key>image</key>
+		<string>d10</string>
+		<key>value</key>
+		<integer>10</integer>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Jack of Diamonds</string>
+		<key>image</key>
+		<string>d11</string>
+		<key>value</key>
+		<integer>10</integer>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Queen of Diamonds</string>
+		<key>image</key>
+		<string>d12</string>
+		<key>value</key>
+		<integer>10</integer>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>King of Diamonds</string>
+		<key>image</key>
+		<string>d13</string>
+		<key>value</key>
+		<integer>10</integer>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Ace of Hearts</string>
+		<key>image</key>
+		<string>h1</string>
+		<key>value</key>
+		<integer>11</integer>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Two of Hearts</string>
+		<key>image</key>
+		<string>h2</string>
+		<key>value</key>
+		<integer>2</integer>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Three of Hearts</string>
+		<key>image</key>
+		<string>h3</string>
+		<key>value</key>
+		<integer>3</integer>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Four of Hearts</string>
+		<key>image</key>
+		<string>h4</string>
+		<key>value</key>
+		<integer>4</integer>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Five of Hearts</string>
+		<key>image</key>
+		<string>h5</string>
+		<key>value</key>
+		<integer>5</integer>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Six of Hearts</string>
+		<key>image</key>
+		<string>h6</string>
+		<key>value</key>
+		<integer>6</integer>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Seven of Hearts</string>
+		<key>image</key>
+		<string>h7</string>
+		<key>value</key>
+		<integer>7</integer>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Eight of Hearts</string>
+		<key>image</key>
+		<string>h8</string>
+		<key>value</key>
+		<integer>8</integer>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Nine of Hearts</string>
+		<key>image</key>
+		<string>h9</string>
+		<key>value</key>
+		<integer>9</integer>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Ten of Hearts</string>
+		<key>image</key>
+		<string>h10</string>
+		<key>value</key>
+		<integer>10</integer>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Jack of Hearts</string>
+		<key>image</key>
+		<string>h11</string>
+		<key>value</key>
+		<integer>10</integer>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Queen of Hearts</string>
+		<key>image</key>
+		<string>h12</string>
+		<key>value</key>
+		<integer>10</integer>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>King of Hearts</string>
+		<key>image</key>
+		<string>h13</string>
+		<key>value</key>
+		<integer>10</integer>
+	</dict>
+</array>
+</plist>
